@@ -1,0 +1,17 @@
+# Experience template
+- layout: left-exp
+  company: Panasonic Automotive 
+  job_title: Deep Learning Research Intern
+  dates: May 2018 - July 2018
+  description: | # this will include new lines to allow paragraphs
+    - Developed deep learning-based algorithms for **drivers' misbehavior detection in autonomous vehicles**.
+    - Focused on driver's **pose estimation** and **hand detection** algorithms using Tensorflow and C++.
+
+- layout: left-exp
+  company: Georgia Tech
+  job_title: Graduate Research/Teaching Assistant
+  dates: January 2016 - present
+  description: | # this will include new lines to allow paragraphs
+      - Developed detection algorithms for events that can lead to **accidents by autonomous vehicles**.
+      - Introduced a large-scale traffic sign recognition dataset for **robust visual understanding under challenging conditions**.
+      - Developed a **perceptual video quality assessment (VQA)** metric which achieved the state-of-the-art performance.

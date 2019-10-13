@@ -1,0 +1,87 @@
+# Site
+repository: gukyeongkwon/website
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Gukyeong Kwon
+title: Ph.D. Student @ Georgia Tech
+email: gukyeong.kwon@gatech.edu
+website: gukyeongkwon.github.io
+
+# Social links
+twitter_username: GukyeongKwon
+github_username:  gukyeongkwon
+linkedin_username: gukyeong-kwon
+# twitter_username: jekyllrb
+# github_username:  jekyll
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Gukyeong Kwon. I am a Ph.D. student advised by [Dr. Ghassan AlRegib](https://ghassanalregib.info/) at Georgia Tech. My research interests are <mark>deep learning</mark>, <mark>computer vision</mark>, and <mark>image/video processing</mark>. In particular, I have primarily focused on achieving the robustness of deep learning algorithms through representation learning.
+
+  News:
+    - **September 24, 2019**: Our paper  won the **Best Paper Award** at the *IEEE International Conference on Image Processing (ICIP) 2019*. 
+    - **April 30, 2019**: Our paper is accepted to the *ICIP 2019*.
+    - **May 4, 2018**: Our paper is accepted to *ICIP 2018*.
+    - **November 14, 2017**: Our paper is accepted to the *31st Conference on Neural Information Processing Systems (NIPS), Machine Learning for Intelligent Transportation Systems Workshop, 2017*.
+    - **March 29, 2017**:  Our paper is selected as a **Finalist of the World’s FIRST 10K Best Paper Award (top 3%)** in the *IEEE International Conference on Multimedia and Expo (ICME) 2017*.
+
+# - **September 24, 2019**: Our paper “Distorted Representation Space Characterization through Backpropagated Gradients” won the **Best Paper Award** at the *IEEE International Conference on Image Processing (ICIP) 2019*. 
+# - **April 30, 2019**: Our paper “Distorted Representation Space Characterization through Backpropagated Gradients” is accepted to the *IEEE International Conference on Image Processing (ICIP) 2019*.
+# - **May 4, 2018**: Our paper “Semantically Interpretable and Controllable Filter Sets” is accepted to the *IEEE International Conference on Image Processing (ICIP) 2018*.
+# - **November 14, 2017**: Our paper “CURE-TSR: Challenging Unreal and Real Environments for Traffic Sign Recognition” is accepted to the *31st Conference on Neural Information Processing Systems (NIPS), Machine Learning for Intelligent Transportation Systems Workshop*, Long Beach, CA, USA, 2017.
+# - **March 29, 2017**:  Our paper "Power of Tempospatially Unified Spectral Density for Perceptual Video Quality Assessment” is selected as a **Finalist of the World’s FIRST 10K Best Paper Award (top 3%)** in the *IEEE International Conference on Multimedia and Expo (ICME) 2017*.
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

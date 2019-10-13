@@ -1,0 +1,17 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import 'modern-resume-theme';
+
+div.col-xs-12.col-print-12{
+    text-align: center;
+    box-align: center;
+}
+
+.col-xs-12.col-sm-8.col-md-7.col-print-12{
+    text-align: left;
+}
+div.col-xs-12.col-print-12{
+    text-align: center;
+}
