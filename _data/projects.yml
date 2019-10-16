@@ -1,9 +1,27 @@
 # Project template
 - layout: left-proj
-  name: eeeee
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+  pub-img: images/icip2019.png
+  citation: '**G. Kwon\***, M. Prabhushankar\*, D. Temel and G. AIRegib, "Distorted Representation Space Characterization Through Backpropagated Gradients," *2019 IEEE International Conference on Image Processing (ICIP)*, Taipei, Taiwan, 2019, pp. 2651-2655. (\* &#58; equal contribution)'
+  links: |
+    [[arXiv]](https://arxiv.org/abs/1908.09998) [[GitHub]](https://github.com/gukyeongkwon/distorted-representation-characterization)
+
+- layout: left-proj
+  pub-img: images/icip2018.png
+  citation: M. Prabhushankar\*, **G. Kwon\***, D. Temel and G. AIRegib, "Semantically Interpretable and Controllable Filter Sets," *2018 25th IEEE International Conference on Image Processing (ICIP)*, Athens, 2018, pp. 1053-1057. (\* &#58; equal contribution)
+  links: |
+    [[arXiv]](https://arxiv.org/abs/1902.06334) [[GitHub]](https://github.com/gukyeongkwon/semantic-autoencoder)
+
+- layout: left-proj
+  pub-img: images/nipsw2017.jpg
+  citation: D. Temel, **G. Kwon\***, M. Prabhushankar\*, and G. AlRegib, "CURE-TSR&#58; Challenging Unreal and Real Environments for Traffic Sign Recognition,"  *MLITS workshop in Neural Information Processing Syste (NIPS)*, Long Beach, U.S.A, December 2017. (\* &#58; equal contribution)
+  links: |
+    [[arXiv]](https://arxiv.org/abs/1712.02463) [[GitHub]](https://github.com/gukyeongkwon/CURE-TSR)
+
+- layout: left-proj
+  pub-img: images/icme2017.png
+  citation: M. A. Aabed, **G. Kwon**, G. AlRegib, "Power of tempospatially unified spectral density for perceptual video quality assessment," *2017 IEEE International Conference on Multimedia and Expo (ICME)*, Hong Kong, 2017, pp. 1476-1481.
+  links: |
+    [[arXiv]](https://arxiv.org/abs/1812.05177) [[GitHub]](https://github.com/gukyeongkwon/3DPSD-VQA)
+
+
+    

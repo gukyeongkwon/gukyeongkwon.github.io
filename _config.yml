@@ -28,14 +28,16 @@ linkedin_username: gukyeong-kwon
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Gukyeong Kwon. I am a Ph.D. student advised by [Dr. Ghassan AlRegib](https://ghassanalregib.info/) at Georgia Tech. My research interests are <mark>deep learning</mark>, <mark>computer vision</mark>, and <mark>image/video processing</mark>. In particular, I have primarily focused on achieving the robustness of deep learning algorithms through representation learning.
+  Hi, my name is Gukyeong Kwon. I am a Ph.D. student advised by [Dr. Ghassan AlRegib](https://ghassanalregib.info/){:target="_blank"} at Georgia Tech. My research interests are <mark>deep learning</mark>, <mark>computer vision</mark>, and <mark>image/video processing</mark>. In particular, I have primarily focused on achieving the robustness of deep learning algorithms through representation learning.
+
+  Please check my [CV](resume/Gukyeong_Kwon_CV.pdf){:target="_blank"} and [Google scholar profile](https://scholar.google.com/citations?user=So9yfEQAAAAJ&hl=en&oi=ao){:target="_blank"} for more information.
 
   News:
-    - **September 24, 2019**: Our paper  won the **Best Paper Award** at the *IEEE International Conference on Image Processing (ICIP) 2019*. 
+    - **September 24, 2019**: Our paper  won the [**Best Paper Award (top 0.1%)**](https://www.ece.gatech.edu/news/627107/olives-team-wins-ieee-icip-best-paper-award){:target="_blank"} at the *IEEE International Conference on Image Processing (ICIP) 2019*. 
     - **April 30, 2019**: Our paper is accepted to the *ICIP 2019*.
-    - **May 4, 2018**: Our paper is accepted to *ICIP 2018*.
+    - **May 4, 2018**: Our paper is accepted to the *ICIP 2018*.
     - **November 14, 2017**: Our paper is accepted to the *31st Conference on Neural Information Processing Systems (NIPS), Machine Learning for Intelligent Transportation Systems Workshop, 2017*.
-    - **March 29, 2017**:  Our paper is selected as a **Finalist of the World’s FIRST 10K Best Paper Award (top 3%)** in the *IEEE International Conference on Multimedia and Expo (ICME) 2017*.
+    - **March 29, 2017**:  Our paper is selected as a [**Finalist of the World’s FIRST 10K Best Paper Award (top 3%)**](https://www.ece.gatech.edu/news/594459/multimedia-and-sensors-lab-team-named-best-paper-award-finalist){:target="_blank"} in the *IEEE International Conference on Multimedia and Expo (ICME) 2017*.
 
 # - **September 24, 2019**: Our paper “Distorted Representation Space Characterization through Backpropagated Gradients” won the **Best Paper Award** at the *IEEE International Conference on Image Processing (ICIP) 2019*. 
 # - **April 30, 2019**: Our paper “Distorted Representation Space Characterization through Backpropagated Gradients” is accepted to the *IEEE International Conference on Image Processing (ICIP) 2019*.
