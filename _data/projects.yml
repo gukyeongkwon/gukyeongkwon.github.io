@@ -1,6 +1,6 @@
 # Project template
 - layout: left-proj
-  pub-img: images/icip2019.png
+  pub-img: images/icip2019.jpg
   citation: '**G. Kwon\***, M. Prabhushankar\*, D. Temel and G. AIRegib, "Distorted Representation Space Characterization Through Backpropagated Gradients," *2019 IEEE International Conference on Image Processing (ICIP)*, Taipei, Taiwan, 2019, pp. 2651-2655. (\* &#58; equal contribution, ***Best Paper Award (top 0.1%)***)'
 
   links: |
@@ -19,7 +19,7 @@
     [[arXiv]](https://arxiv.org/abs/1712.02463) [[GitHub]](https://github.com/gukyeongkwon/CURE-TSR)
 
 - layout: left-proj
-  pub-img: images/icme2017.png
+  pub-img: images/icme2017.jpg
   citation: M. A. Aabed, **G. Kwon**, G. AlRegib, "Power of tempospatially unified spectral density for perceptual video quality assessment," *2017 IEEE International Conference on Multimedia and Expo (ICME)*, Hong Kong, 2017, pp. 1476-1481. (***Finalist of the World’s FIRST 10K Best Paper Award (top 3%)***)
   
   links: |
