@@ -1,4 +1,12 @@
 # Experience template
+
+- layout: left-exp
+  company: AWS AI
+  job_title: Applied Scientist Intern
+  dates: May 2020 - August 2020
+  description: | # this will include new lines to allow paragraphs
+    - Conduct research on multimodal represenation learning for **vision and language**.
+
 - layout: left-exp
   company: Panasonic Automotive 
   job_title: Deep Learning Research Intern
