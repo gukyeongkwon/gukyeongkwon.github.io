@@ -1,14 +1,22 @@
 # Project template
+
+- layout: left-proj
+  pub-img: images/icip2020_gukyeong.jpg
+  citation: '**G. Kwon**, M. Prabhushankar, D. Temel, and G. AIRegib, "Novelty Detection Through Model-based Characterization of Neural Networks," *2020 IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, United Arab Emirates (UAE), 2020.'
+
+- layout: left-proj
+  pub-img: images/icip2020_mohit.jpg
+  citation: 'M. Prabhushankar, **G. Kwon**, D. Temel, and G. AIRegib, "Contrastive Explanations in Neural Networks," *2020 IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, United Arab Emirates (UAE), 2020.'
+
 - layout: left-proj
   pub-img: images/icip2019.jpg
-  citation: '**G. Kwon\***, M. Prabhushankar\*, D. Temel and G. AIRegib, "Distorted Representation Space Characterization Through Backpropagated Gradients," *2019 IEEE International Conference on Image Processing (ICIP)*, Taipei, Taiwan, 2019, pp. 2651-2655. (\* &#58; equal contribution, ***Best Paper Award (top 0.1%)***)'
-
+  citation: '**G. Kwon\***, M. Prabhushankar\*, D. Temel, and G. AIRegib, "Distorted Representation Space Characterization Through Backpropagated Gradients," *2019 IEEE International Conference on Image Processing (ICIP)*, Taipei, Taiwan, 2019, pp. 2651-2655. (\* &#58; equal contribution, ***Best Paper Award (top 0.1%)***)'
   links: |
     [[arXiv]](https://arxiv.org/abs/1908.09998) [[GitHub]](https://github.com/gukyeongkwon/distorted-representation-characterization) [[Poster]](slides/gukyeong_icip2019_poster.pdf)
 
 - layout: left-proj
   pub-img: images/icip2018.png
-  citation: M. Prabhushankar\*, **G. Kwon\***, D. Temel and G. AIRegib, "Semantically Interpretable and Controllable Filter Sets," *2018 25th IEEE International Conference on Image Processing (ICIP)*, Athens, 2018, pp. 1053-1057. (\* &#58; equal contribution)
+  citation: M. Prabhushankar\*, **G. Kwon\***, D. Temel, and G. AIRegib, "Semantically Interpretable and Controllable Filter Sets," *2018 25th IEEE International Conference on Image Processing (ICIP)*, Athens, 2018, pp. 1053-1057. (\* &#58; equal contribution)
   links: |
     [[arXiv]](https://arxiv.org/abs/1902.06334) [[GitHub]](https://github.com/gukyeongkwon/semantic-autoencoder) [[Poster]](slides/gukyeong_icip2018_poster.pdf)
 
