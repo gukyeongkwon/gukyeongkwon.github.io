@@ -1,6 +1,10 @@
 # Project template
 
 - layout: left-proj
+  pub-img: images/eccv2020.jpg
+  citation: '**G. Kwon**, M. Prabhushankar, D. Temel, and G. AIRegib, "Backpropagated Gradient Representations for Anomaly Detection," In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2020.'
+
+- layout: left-proj
   pub-img: images/icip2020_gukyeong.jpg
   citation: '**G. Kwon**, M. Prabhushankar, D. Temel, and G. AIRegib, "Novelty Detection Through Model-based Characterization of Neural Networks," *2020 IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, United Arab Emirates (UAE), 2020.'
 
