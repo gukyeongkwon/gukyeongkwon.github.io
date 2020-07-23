@@ -3,6 +3,8 @@
 - layout: left-proj
   pub-img: images/eccv2020.jpg
   citation: '**G. Kwon**, M. Prabhushankar, D. Temel, and G. AIRegib, "Backpropagated Gradient Representations for Anomaly Detection," In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2020.'
+  links: |
+    [[arXiv]](https://arxiv.org/abs/2007.09507) [[GitHub]](https://github.com/gukyeongkwon/gradcon-anomaly) [[Short Video]](https://www.youtube.com/watch?v=23GJJrQQNfQ&feature=youtu.be)
 
 - layout: left-proj
   pub-img: images/icip2020_gukyeong.jpg
