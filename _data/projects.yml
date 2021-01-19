@@ -14,9 +14,9 @@
 
 - layout: left-proj
   pub-img: images/icip2020_mohit.jpg
-  citation: 'M. Prabhushankar, **G. Kwon**, D. Temel, and G. AIRegib, "Contrastive Explanations in Neural Networks," *2020 IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, United Arab Emirates (UAE), 2020.'
+  citation: M. Prabhushankar, **G. Kwon**, D. Temel, and G. AIRegib, "Contrastive Explanations in Neural Networks," *2020 IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, United Arab Emirates (UAE), 2020. (***Top Viewed Special Session Paper Award***)
   links: |
-    [[arXiv]](https://arxiv.org/abs/2008.00178) [[GitHub]](https://github.com/olivesgatech/Contrastive-Explanations)
+    [[arXiv]](https://arxiv.org/abs/2008.00178) [[GitHub]](https://github.com/olivesgatech/Contrastive-Explanations) [[Slides]](slides/mohit_icip2020_slides.pdf) [[Award]](images/icip2020_mohit_award.pdf)
 
 - layout: left-proj
   pub-img: images/icip2019.jpg

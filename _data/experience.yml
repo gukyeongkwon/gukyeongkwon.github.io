@@ -2,10 +2,18 @@
 
 - layout: left-exp
   company: AWS AI Labs
+  job_title: Applied Scientist
+  dates: January 2021 - present
+  description: | # this will include new lines to allow paragraphs
+    - Conduct research for **AI-powered search** services.
+
+- layout: left-exp
+  company: AWS AI Labs
   job_title: Applied Scientist Intern
   dates: May 2020 - August 2020
   description: | # this will include new lines to allow paragraphs
-    - Conduct research on multimodal represenation learning for **vision and language**.
+    - Conducted research on multimodal represenation learning for **vision and language**.
+    - Developed regularization techniques for **two-stream BERT models** and achieved improved performance in **visual question answering**, **caption-based image retrieval**, and **referring expressions**.
 
 - layout: left-exp
   company: Panasonic Automotive 
