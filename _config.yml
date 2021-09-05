@@ -4,8 +4,8 @@ repository: gukyeongkwon/website
 
 # Personal info
 name: Gukyeong Kwon
-title: Ph.D. Student @ Georgia Tech
-email: gukyeong.kwon@gatech.edu
+title: Applied Scientist @ AWS
+email: gukyeong.kwon@gmail.com
 website: gukyeongkwon.github.io
 
 # Social links
@@ -28,11 +28,12 @@ linkedin_username: gukyeong-kwon
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Gukyeong_12302020_square.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Gukyeong Kwon. I am a Ph.D. student advised by [Dr. Ghassan AlRegib](https://ghassanalregib.info/){:target="_blank"} at Georgia Tech. My research interests are <mark>deep learning</mark>, <mark>computer vision</mark>, and <mark>image/video processing</mark>. In particular, I have primarily focused on achieving the robustness of deep learning algorithms through representation learning.
+  Hi, my name is Gukyeong Kwon. I am an Applied Scientist at Amazon Web Services (AWS) AI Labs. I completed M.S. and Ph.D. in School of Electrical and Computer Engineering at Georgia Tech in 2018 and 2021, respectively, under the supervision of [Dr. Ghassan AlRegib](https://ghassanalregib.info/){:target="_blank"}. My research interests are broadly <mark>machine learning</mark>, <mark>computer vision</mark>, and <mark>image/video processing</mark>. Recently, I have primarily focused on multimodal representation learning for vision and language.
 
-  Please check my [CV](resume/Gukyeong_Kwon_CV.pdf){:target="_blank"} and [Google scholar profile](https://scholar.google.com/citations?user=So9yfEQAAAAJ&hl=en&oi=ao){:target="_blank"} for more information.
+  Please check my [CV](resume/Gukyeong_Kwon_Resume.pdf){:target="_blank"} and [Google scholar profile](https://scholar.google.com/citations?user=So9yfEQAAAAJ&hl=en&oi=ao){:target="_blank"} for more information.
 
   News:
+    - **July 14, 2021**: I successfully finished my Ph.D. dissertation defense. 
     - **January 11, 2021**: I am joining Amazon Web Services (AWS) AI Labs as a full-time Applied Scientist.
     - **October 28, 2020**: Our paper received the [**Top Viewed Special Session Paper Award**](images/icip2020_mohit_award.pdf) at *ICIP 2020*.
     - **July 3, 2020**: Our papers is accpeted for publication at *ECCV 2020*.

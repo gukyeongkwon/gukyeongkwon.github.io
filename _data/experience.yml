@@ -26,7 +26,7 @@
 - layout: left-exp
   company: Georgia Tech
   job_title: Graduate Research/Teaching Assistant
-  dates: January 2016 - present
+  dates: January 2016 - December 2020
   description: | # this will include new lines to allow paragraphs
       - Developed algorithms to detect accident events occurring in driving scenes to **ensure safe autonomous driving**.
       - Proposed **abnormal object detection** algorithms for autonomous vehicles.

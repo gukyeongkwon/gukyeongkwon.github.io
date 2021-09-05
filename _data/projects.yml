@@ -10,7 +10,7 @@
   pub-img: images/icip2020_gukyeong.jpg
   citation: '**G. Kwon**, M. Prabhushankar, D. Temel, and G. AIRegib, "Novelty Detection Through Model-based Characterization of Neural Networks," *2020 IEEE International Conference on Image Processing (ICIP)*, Abu Dhabi, United Arab Emirates (UAE), 2020.'
   links: |
-    [[arXiv]](https://arxiv.org/abs/2008.06094) [[GitHub]](https://github.com/gukyeongkwon/gradcon-anomaly) [[Slides]](slides/gukyeong_icip2020_slides.pdf)
+    [[arXiv]](https://arxiv.org/abs/2008.06094) [[GitHub]](https://github.com/gukyeongkwon/gradcon-anomaly) [[Slides]](slides/gukyeong_icip2020_slides.pdf) [[Video]](https://youtu.be/CkPC-vGR7Dk)
 
 - layout: left-proj
   pub-img: images/icip2020_mohit.jpg
