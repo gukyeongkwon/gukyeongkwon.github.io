@@ -1,6 +1,12 @@
 # Project template
 
 - layout: left-proj
+  pub-img: images/tip2022.png
+  citation: '**G. Kwon** and G. AIRegib, "A Gating Model for Bias Calibration in Generalized Zero-shot Learning," In *IEEE Transactions on Image Processing*, 2022.'
+  links: |
+    [[arXiv]](https://arxiv.org/abs/2203.04195) [[GitHub]](https://github.com/gukyeongkwon/gating-ae)
+
+- layout: left-proj
   pub-img: images/eccv2020.jpg
   citation: '**G. Kwon**, M. Prabhushankar, D. Temel, and G. AIRegib, "Backpropagated Gradient Representations for Anomaly Detection," In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2020.'
   links: |
@@ -39,9 +45,8 @@
 - layout: left-proj
   pub-img: images/icme2017.jpg
   citation: M. A. Aabed, **G. Kwon**, G. AlRegib, "Power of tempospatially unified spectral density for perceptual video quality assessment," *2017 IEEE International Conference on Multimedia and Expo (ICME)*, Hong Kong, 2017, pp. 1476-1481. (***Finalist of the World’s FIRST 10K Best Paper Award (top 3%)***)
-  
   links: |
-    [[arXiv]](https://arxiv.org/abs/1812.05177) [[GitHub]](https://github.com/gukyeongkwon/3DPSD-VQA) [[Slides]](slides/gukyeong_icme2017_slides.pdf)
+    [[arXiv]](https://arxiv.org/abs/1812.05177) [[GitHub]](https://github.com/gukyeongkwon/3DPSD-VQA) [[Slides]](slides/gukyeong_icme2017_slides.pdf) [[Award]](https://www.ece.gatech.edu/news/594459/multimedia-and-sensors-lab-team-named-best-paper-award-finalist)
 
 
     

@@ -110,6 +110,15 @@ Add any css changes or additions you want to make here after the line `@import '
 
 Before you start make sure you have *Ruby* and the gems for *Jekyll* installed locally. You can find out how to do that [here](https://jekyllrb.com/docs/installation/).
 
+After following the steps described in the link, we use churby as Ruby manager to use a different version of Ruby for this project. See details [here](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/#laptop-script).
+
+```
+ruby-install ruby-2.6.3
+echo 'ruby-2.6.3' >> .ruby-version
+gem install jekyll
+```
+
+
 1. Clone your resume repository locally *(if you haven't already)*
 2. `cd [your-repository-name]`
 3. `bundle install`
