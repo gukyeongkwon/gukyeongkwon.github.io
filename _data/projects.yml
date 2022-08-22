@@ -1,6 +1,18 @@
 # Project template
 
 - layout: left-proj
+  pub-img: images/maskvlm.jpg
+  citation: '**G. Kwon**, Z. Cai, A. Ravichandran, E. Bas, R. Bhotika, and S. Soatto, "Masked Vision and Language Modeling for Multi-modal Representation Learning," *arXiv*, 2022.'
+  links: |
+    [[arXiv]](https://arxiv.org/abs/2208.02131)
+
+- layout: left-proj
+  pub-img: images/eccv2022.jpg
+  citation: 'Z. Cai, **G. Kwon**, A. Ravichandran, E. Bas, Z. Tu, R. Bhotika, and S. Soatto, "X-DETR: A Versatile Architecture for Instance-wise Vision-Language Tasks," In *Proceedings of the European Conference on Computer Vision (ECCV)*, 2022.'
+  links: |
+    [[arXiv]](https://arxiv.org/abs/2204.05626) [[GitHub]](https://github.com/amazon-research/cross-modal-detr)
+
+- layout: left-proj
   pub-img: images/tip2022.png
   citation: '**G. Kwon** and G. AIRegib, "A Gating Model for Bias Calibration in Generalized Zero-shot Learning," In *IEEE Transactions on Image Processing*, 2022.'
   links: |
