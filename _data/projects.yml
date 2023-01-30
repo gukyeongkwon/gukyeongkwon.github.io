@@ -2,7 +2,7 @@
 
 - layout: left-proj
   pub-img: images/maskvlm.jpg
-  citation: '**G. Kwon**, Z. Cai, A. Ravichandran, E. Bas, R. Bhotika, and S. Soatto, "Masked Vision and Language Modeling for Multi-modal Representation Learning," *arXiv*, 2022.'
+  citation: '**G. Kwon**, Z. Cai, A. Ravichandran, E. Bas, R. Bhotika, and S. Soatto, "Masked Vision and Language Modeling for Multi-modal Representation Learning," *International Conference on Learning Representations (ICLR)*, 2023.'
   links: |
     [[arXiv]](https://arxiv.org/abs/2208.02131)
 
