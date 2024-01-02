@@ -4,7 +4,7 @@ repository: gukyeongkwon/website
 
 # Personal info
 name: Gukyeong Kwon
-title: Applied Scientist @ AWS
+title: Senior Applied Scientist @ Amazon Artificial General Intelligence
 email: gukyeong.kwon@gmail.com
 website: gukyeongkwon.github.io
 
@@ -28,23 +28,25 @@ linkedin_username: gukyeong-kwon
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Gukyeong_12302020_square.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Gukyeong Kwon. I am an Applied Scientist at Amazon Web Services (AWS) AI Labs. I completed M.S. and Ph.D. in School of Electrical and Computer Engineering at Georgia Tech in 2018 and 2021, respectively, under the supervision of [Dr. Ghassan AlRegib](https://ghassanalregib.info/){:target="_blank"}. My research interests are broadly <mark>machine learning</mark>, <mark>computer vision</mark>, and <mark>image/video processing</mark>. Recently, I have primarily focused on multi-modal representation learning for vision and language.
+  Hi, my name is Gukyeong Kwon. I am a Senior Applied Scientist at Amazon Artificial General Intelligence (AGI). I completed M.S. and Ph.D. in School of Electrical and Computer Engineering at Georgia Tech in 2018 and 2021, respectively, under the supervision of [Dr. Ghassan AlRegib](https://ghassanalregib.info/){:target="_blank"}. My research interests are broadly <mark>machine learning</mark>, <mark>computer vision</mark>, and <mark>image/video processing</mark>. Recently, I have primarily focused on multi-modal representation learning for vision and language.
 
   Please check my [CV](resume/Gukyeong_Kwon_Resume.pdf){:target="_blank"} and [Google scholar profile](https://scholar.google.com/citations?user=So9yfEQAAAAJ&hl=en&oi=ao){:target="_blank"} for more information.
 
   News:
-    - **Jan 20, 2023**: One paper is accepted for publication at *ICLR 2023*.
+    - **Nov. 29, 2023**: [**Amazon Titan Multimodal Embeddings foundation model**](https://www.amazon.science/blog/amazon-web-services-releases-two-new-titan-vision-language-models) which I contributed is finally launched.  
+    - **Oct. 9, 2023**: I am promoted to Senior Applied Scientist at Amazon.
+    - **Jan. 20, 2023**: One paper is accepted for publication at *ICLR 2023*.
     - **May 30, 2022**: I receive a [**CSIP Outstanding Research Award**](images/csip_award.jpeg) in recognition of my Ph.D. research at Georgia Tech.
-    - **January 30, 2022**: One paper is accepted for publication at *IEEE Transactions on Image Processing*.
-    - **January 11, 2021**: I am joining Amazon Web Services (AWS) AI Labs as a full-time Applied Scientist.
-    - **October 28, 2020**: Our paper received the [**Top Viewed Special Session Paper Award**](images/icip2020_mohit_award.pdf) at *ICIP 2020*.
-    - **July 3, 2020**: Our papers is accpeted for publication at *ECCV 2020*.
+    - **Jan. 30, 2022**: One paper is accepted for publication at *IEEE Transactions on Image Processing*.
+    - **Jan. 11, 2021**: I am joining Amazon Web Services (AWS) AI Labs as a full-time Applied Scientist.
+    - **Oct. 28, 2020**: Our paper received the [**Top Viewed Special Session Paper Award**](images/icip2020_mohit_award.pdf) at *ICIP 2020*.
+    - **Jul. 3, 2020**: Our papers is accpeted for publication at *ECCV 2020*.
     - **May 15, 2020**: Two papers are accpeted for publication at *ICIP 2020*.
-    - **September 24, 2019**: Our paper won the [**Best Paper Award (top 0.1%)**](https://www.ece.gatech.edu/news/627107/olives-team-wins-ieee-icip-best-paper-award){:target="_blank"} at the *IEEE International Conference on Image Processing (ICIP) 2019*.
-    - **April 30, 2019**: Our paper is accepted for publication at *ICIP 2019*.
+    - **Sept. 24, 2019**: Our paper won the [**Best Paper Award (top 0.1%)**](https://www.ece.gatech.edu/news/627107/olives-team-wins-ieee-icip-best-paper-award){:target="_blank"} at the *IEEE International Conference on Image Processing (ICIP) 2019*.
+    - **Apr. 30, 2019**: Our paper is accepted for publication at *ICIP 2019*.
     - **May 4, 2018**: Our paper is accepted for publication at *ICIP 2018*.
-    - **November 14, 2017**: Our paper is accepted for publication at the *31st Conference on Neural Information Processing Systems (NIPS), Machine Learning for Intelligent Transportation Systems Workshop, 2017*.
-    - **March 29, 2017**:  Our paper is selected as a [**Finalist of the World’s FIRST 10K Best Paper Award (top 3%)**](https://www.ece.gatech.edu/news/594459/multimedia-and-sensors-lab-team-named-best-paper-award-finalist){:target="_blank"} in the *IEEE International Conference on Multimedia and Expo (ICME) 2017*.
+    - **Nov. 14, 2017**: Our paper is accepted for publication at the *31st Conference on Neural Information Processing Systems (NIPS), Machine Learning for Intelligent Transportation Systems Workshop, 2017*.
+    - **Mar. 29, 2017**:  Our paper is selected as a [**Finalist of the World’s FIRST 10K Best Paper Award (top 3%)**](https://www.ece.gatech.edu/news/594459/multimedia-and-sensors-lab-team-named-best-paper-award-finalist){:target="_blank"} in the *IEEE International Conference on Multimedia and Expo (ICME) 2017*.
 
 #- **July 14, 2021**: I successfully finished my Ph.D. dissertation defense.
 #- **January 2, 2020**: I am joining Amazon Web Services (AWS) AI Labs as an Applied Scientist Intern in Summer 2020.

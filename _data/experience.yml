@@ -1,11 +1,19 @@
 # Experience template
 
 - layout: left-exp
+  company: Amazon AGI
+  job_title: Senior Applied Scientist
+  dates: October 2023 - Present
+  description: | # this will include new lines to allow paragraphs
+    - Develop artificial general intelligence foundation models and services.
+
+- layout: left-exp
   company: AWS AI Labs
   job_title: Applied Scientist
-  dates: January 2021 - present
+  dates: January 2021 - October 2023
   description: | # this will include new lines to allow paragraphs
-    - Develop AI systems that understand **vision and language**.
+    - Developed **Amazon Titan Multimodal Embeddings foundation model** which can perform accurate and contextually relevant vision language search.
+    - Contributed to the overall pipeline of **large-scale model training** including data preparation and processing, model training, and evaluation.
 
 - layout: left-exp
   company: AWS AI Labs
