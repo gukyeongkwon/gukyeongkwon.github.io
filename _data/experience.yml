@@ -5,7 +5,7 @@
   job_title: Senior Applied Scientist
   dates: October 2023 - Present
   description: | # this will include new lines to allow paragraphs
-    - Develop artificial general intelligence foundation models and services.
+    - Building **Amazon Nova**, a family of multi-modal foundation models, which achieves state-of-the-art intelligence.
 
 - layout: left-exp
   company: AWS AI Labs

@@ -1,6 +1,13 @@
 # Project template
 
 - layout: left-proj
+  pub-img: images/nova2024.png
+  citation: '**Amazon Artificial General Intelligence**, "The Amazon Nova Family of Models: Technical Report and Model Card," Tech report, 2024.'
+  links: |
+    [[Amazon Science]](https://www.amazon.science/publications/the-amazon-nova-family-of-models-technical-report-and-model-card)
+
+
+- layout: left-proj
   pub-img: images/maskvlm.jpg
   citation: '**G. Kwon**, Z. Cai, A. Ravichandran, E. Bas, R. Bhotika, and S. Soatto, "Masked Vision and Language Modeling for Multi-modal Representation Learning," *International Conference on Learning Representations (ICLR)*, 2023.'
   links: |
