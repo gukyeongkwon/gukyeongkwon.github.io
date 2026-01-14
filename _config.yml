@@ -28,14 +28,15 @@ linkedin_username: gukyeong-kwon
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Gukyeong_12302020_square.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Gukyeong Kwon. I am a Senior Applied Scientist at Amazon Artificial General Intelligence (AGI). I completed M.S. and Ph.D. in School of Electrical and Computer Engineering at Georgia Tech in 2018 and 2021, respectively, under the supervision of [Dr. Ghassan AlRegib](https://ghassanalregib.info/){:target="_blank"}. My research interests are broadly <mark>machine learning</mark>, <mark>computer vision</mark>, and <mark>image/video processing</mark>. Recently, I have primarily focused on multi-modal representation learning for vision and language.
+  Hi, my name is Gukyeong Kwon. I am a Senior Applied Scientist at Amazon Artificial General Intelligence (AGI). I completed M.S. and Ph.D. in School of Electrical and Computer Engineering at Georgia Tech in 2018 and 2021, respectively, under the supervision of [Dr. Ghassan AlRegib](https://ghassanalregib.info/){:target="_blank"}. My research interests are <mark>machine learning</mark>, <mark>computer vision</mark>, and <mark>multimodal foundation models</mark>.
 
   Please check my [CV](resume/Gukyeong_Kwon_Resume.pdf){:target="_blank"} and [Google scholar profile](https://scholar.google.com/citations?user=So9yfEQAAAAJ&hl=en&oi=ao){:target="_blank"} for more information.
 
   News:
+    - **Oct. 23, 2025**: [**Amazon Nova Multimodal Embeddings model**](https://aws.amazon.com/blogs/aws/amazon-nova-multimodal-embeddings-now-available-in-amazon-bedrock/) is launched.
     - **May 10, 2025**: I am recognized as a [**CVPR 2025 Outstanding Reviewer**](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer).
-    - **Dec 3, 2024**: [**Amazon Nova**](https://www.aboutamazon.com/news/aws/amazon-nova-artificial-intelligence-bedrock-aws), a new generation of state-of-the-art multi-modal foundation models, is launched.
-    - **Nov. 29, 2023**: [**Amazon Titan Multimodal Embeddings foundation model**](https://www.amazon.science/blog/amazon-web-services-releases-two-new-titan-vision-language-models) which I contributed is finally launched.  
+    - **Dec 3, 2024**: [**Amazon Nova Multimodal Foundation model**](https://www.aboutamazon.com/news/aws/amazon-nova-artificial-intelligence-bedrock-aws) is launched.
+    - **Nov. 29, 2023**: [**Amazon Titan Multimodal Embeddings model**](https://www.amazon.science/blog/amazon-web-services-releases-two-new-titan-vision-language-models) is launched.  
     - **Oct. 9, 2023**: I am promoted to Senior Applied Scientist at Amazon.
     - **May 16, 2023**: I am recognized as a [**CVPR 2023 Outstanding Reviewer**](https://cvpr.thecvf.com/Conferences/2023/OutstandingReviewers).
     - **Jan. 20, 2023**: One paper is accepted for publication at *ICLR 2023*.
@@ -43,8 +44,8 @@ about_content: | # this will include new lines to allow paragraphs
     - **Jan. 30, 2022**: One paper is accepted for publication at *IEEE Transactions on Image Processing*.
     - **Jan. 11, 2021**: I am joining Amazon Web Services (AWS) AI Labs as a full-time Applied Scientist.
     - **Oct. 28, 2020**: Our paper received the [**Top Viewed Special Session Paper Award**](images/icip2020_mohit_award.pdf) at *ICIP 2020*.
-    - **Jul. 3, 2020**: Our papers is accpeted for publication at *ECCV 2020*.
-    - **May 15, 2020**: Two papers are accpeted for publication at *ICIP 2020*.
+    - **Jul. 3, 2020**: Our papers is accepted for publication at *ECCV 2020*.
+    - **May 15, 2020**: Two papers are accepted for publication at *ICIP 2020*.
     - **Sept. 24, 2019**: Our paper won the [**Best Paper Award (top 0.1%)**](https://www.ece.gatech.edu/news/627107/olives-team-wins-ieee-icip-best-paper-award){:target="_blank"} at the *IEEE International Conference on Image Processing (ICIP) 2019*.
     - **Apr. 30, 2019**: Our paper is accepted for publication at *ICIP 2019*.
     - **May 4, 2018**: Our paper is accepted for publication at *ICIP 2018*.

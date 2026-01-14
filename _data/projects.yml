@@ -1,11 +1,15 @@
 # Project template
+- layout: left-proj
+  pub-img: images/nova_mme_2025.png
+  citation: '**Amazon Artificial General Intelligence**, "Amazon Nova Multimodal Embeddings: Technical Report and Model Card," Tech report, 2025.'
+  links: |
+    [[Amazon Science]](https://www.amazon.science/publications/amazon-nova-multimodal-embeddings-technical-report-and-model-card)
 
 - layout: left-proj
   pub-img: images/nova2024.png
   citation: '**Amazon Artificial General Intelligence**, "The Amazon Nova Family of Models: Technical Report and Model Card," Tech report, 2024.'
   links: |
     [[Amazon Science]](https://www.amazon.science/publications/the-amazon-nova-family-of-models-technical-report-and-model-card)
-
 
 - layout: left-proj
   pub-img: images/maskvlm.jpg
