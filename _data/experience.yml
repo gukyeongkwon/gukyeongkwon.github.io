@@ -5,38 +5,39 @@
   job_title: Senior Applied Scientist
   dates: October 2023 - Present
   description: | # this will include new lines to allow paragraphs
-    - Contributed to **Amazon Nova Multimodal Foundation models** which achieve frontier intelligence in diverse vision and language tasks.
-    - Led the launch of **Amazon Nova Multimodal Embeddings model**, a state-of-the-art multimodal embedding model which is the first embeddings models to support five modalities as input (text, documents, images, video and audio) for agentic RAG and semantic search applications.
+    - Led vision encoder training and **data mixture optimization** for **Amazon Nova** (multimodal understanding) and **Amazon Nova Multimodal Embeddings** (universal retrieval across image, text, document, video, and audio).
+    - Designed a **multi-stage vision encoder training curriculum** — compute-efficient contrastive learning in early stages, followed by end-to-end training with the LLM — achieving equivalent performance at **25% of the compute budget**.
+    - Optimized multimodal data mixtures across pre-training and SFT stages; developed a **scaling-based methodology** to identify per-dataset contribution and saturation.
+    - Established **scaling ladders** to identify optimal batch size, learning rate, and model size for contrastive learning; trained vision encoders with native resolution support by investigating positional embedding interpolation strategies.
 
 - layout: left-exp
   company: AWS AI Labs
   job_title: Applied Scientist
   dates: January 2021 - October 2023
   description: | # this will include new lines to allow paragraphs
-    - Developed **Amazon Titan Multimodal Embeddings model** which can perform accurate and contextually relevant vision language search.
-    - Conducted research on vision and language representation learning. **Masked Vision and Language Modeling (MaskVLM)** was proposed and accepted for publication at ICLR 2023.
+    - Proposed **MaskVLM**, a cross-modal masked reconstruction method that learns vision-language alignment by reconstructing one modality's masked signal conditioned on the other, achieving state-of-the-art on retrieval, VQA, and visual reasoning (**ICLR 2023**).
+    - Curated billion-scale web training data with synthetic caption enrichment and designed multi-encoder architectures for large-scale contrastive learning, significantly improving retrieval performance. Shipped as **Amazon Titan Multimodal Embeddings**.
 
-- layout: left-exp
-  company: AWS AI Labs
-  job_title: Applied Scientist Intern
-  dates: May 2020 - August 2020
-  description: | # this will include new lines to allow paragraphs
-    - Developed regularization techniques for **vision and language models** and achieved improved performance in **visual question answering**, **caption-based image retrieval**, and **referring expressions**.
+# - layout: left-exp
+#   company: AWS AI Labs
+#   job_title: Applied Scientist Intern
+#   dates: May 2020 - August 2020
+#   description: | # this will include new lines to allow paragraphs
+#     - Developed regularization techniques for vision and language models and achieved improved performance in visual question answering, caption-based image retrieval, and referring expressions.
 
-- layout: left-exp
-  company: Panasonic Automotive 
-  job_title: Deep Learning Research Intern
-  dates: May 2018 - July 2018
-  description: | # this will include new lines to allow paragraphs
-    - Developed deep learning-based algorithms for **drivers' misbehavior detection in autonomous vehicles**.
-    - Focused on driver's **pose estimation** and **hand detection** algorithms using Tensorflow and C++.
+# - layout: left-exp
+#   company: Panasonic Automotive 
+#   job_title: Deep Learning Research Intern
+#   dates: May 2018 - July 2018
+#   description: | # this will include new lines to allow paragraphs
+#     - Developed deep learning-based algorithms for **drivers' misbehavior detection in autonomous vehicles**.
+#     - Focused on driver's **pose estimation** and **hand detection** algorithms using Tensorflow and C++.
 
 - layout: left-exp
   company: Georgia Tech
   job_title: Graduate Research/Teaching Assistant
   dates: January 2016 - December 2020
   description: | # this will include new lines to allow paragraphs
-      - Developed an anomaly detection algorithm using gradient-based representations which characterize knowledge that the model has not learned.
-      - Conducted research on accident event detection algorithms to detect abnormal situations in driving scenarios and **ensure safe autonomous driving**.
-      - Introduced a large-scale traffic sign recognition dataset for **robust visual understanding under challenging conditions**.
-      - Developed a **perceptual video quality assessment (VQA)** metric which achieved the state-of-the-art performance in estimating the impact of visual distortions on **human perception**.
+    - Developed gradient-based representations for anomaly and out-of-distribution detection, achieving state-of-the-art performance across diverse image recognition datasets (**ECCV 2020**, **ICIP Best Paper 2019**).
+    - Grounded gradient-based representations theoretically using Fisher kernel from information geometry.
+    - Developed a gating model for generalized zero-shot learning that calibrates bias toward seen classes (**IEEE TIP 2022**).

@@ -4,12 +4,13 @@ repository: gukyeongkwon/website
 
 # Personal info
 name: Gukyeong Kwon
-title: Senior Applied Scientist @ Amazon Artificial General Intelligence
+title: Senior Applied Scientist | Multimodal Foundation Models
 email: gukyeong.kwon@gmail.com
 website: gukyeongkwon.github.io
 
 # Social links
-twitter_username: GukyeongKwon
+# twitter_username: GukyeongKwon
+google_scholar_url: https://scholar.google.com/citations?user=So9yfEQAAAAJ
 github_username:  gukyeongkwon
 linkedin_username: gukyeong-kwon
 # twitter_username: jekyllrb
@@ -28,29 +29,34 @@ linkedin_username: gukyeong-kwon
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Gukyeong_12302020_square.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Gukyeong Kwon. I am a Senior Applied Scientist at Amazon Artificial General Intelligence (AGI). I completed M.S. and Ph.D. in School of Electrical and Computer Engineering at Georgia Tech in 2018 and 2021, respectively, under the supervision of [Dr. Ghassan AlRegib](https://ghassanalregib.info/){:target="_blank"}. My research interests are <mark>machine learning</mark>, <mark>computer vision</mark>, and <mark>multimodal foundation models</mark>.
-
-  Please check my [CV](resume/Gukyeong_Kwon_Resume.pdf){:target="_blank"} and [Google scholar profile](https://scholar.google.com/citations?user=So9yfEQAAAAJ&hl=en&oi=ao){:target="_blank"} for more information.
+  I am a research scientist leading multimodal foundation model research at Amazon AGI. My work focuses on **compute-efficient vision encoder training**, **cross-modal alignment**, and **scaling ladder design** --- shipped in **Amazon Nova** and **Amazon Nova Multimodal Embeddings**. I serve as an Area Chair for ECCV and have published at ICLR, ECCV, and IEEE TIP. I received my Ph.D. from Georgia Tech under Dr. Ghassan AlRegib, where I developed gradient-based representations for anomaly detection grounded in information geometry.
+  
+  Please check my [**CV**](resume/Gukyeong_Kwon_Resume.pdf){:target="_blank"} for more information.
 
   News:
+    - **Jan. 3, 2026**: Serving as an **Area Chair** for *ECCV 2026*.
     - **Oct. 23, 2025**: [**Amazon Nova Multimodal Embeddings model**](https://aws.amazon.com/blogs/aws/amazon-nova-multimodal-embeddings-now-available-in-amazon-bedrock/) is launched.
-    - **May 10, 2025**: I am recognized as a [**CVPR 2025 Outstanding Reviewer**](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer).
-    - **Dec 3, 2024**: [**Amazon Nova Multimodal Foundation model**](https://www.aboutamazon.com/news/aws/amazon-nova-artificial-intelligence-bedrock-aws) is launched.
-    - **Nov. 29, 2023**: [**Amazon Titan Multimodal Embeddings model**](https://www.amazon.science/blog/amazon-web-services-releases-two-new-titan-vision-language-models) is launched.  
-    - **Oct. 9, 2023**: I am promoted to Senior Applied Scientist at Amazon.
-    - **May 16, 2023**: I am recognized as a [**CVPR 2023 Outstanding Reviewer**](https://cvpr.thecvf.com/Conferences/2023/OutstandingReviewers).
-    - **Jan. 20, 2023**: One paper is accepted for publication at *ICLR 2023*.
-    - **May 30, 2022**: I receive a [**CSIP Outstanding Research Award**](images/csip_award.jpeg) in recognition of my Ph.D. research at Georgia Tech.
-    - **Jan. 30, 2022**: One paper is accepted for publication at *IEEE Transactions on Image Processing*.
-    - **Jan. 11, 2021**: I am joining Amazon Web Services (AWS) AI Labs as a full-time Applied Scientist.
-    - **Oct. 28, 2020**: Our paper received the [**Top Viewed Special Session Paper Award**](images/icip2020_mohit_award.pdf) at *ICIP 2020*.
-    - **Jul. 3, 2020**: Our papers is accepted for publication at *ECCV 2020*.
-    - **May 15, 2020**: Two papers are accepted for publication at *ICIP 2020*.
-    - **Sept. 24, 2019**: Our paper won the [**Best Paper Award (top 0.1%)**](https://www.ece.gatech.edu/news/627107/olives-team-wins-ieee-icip-best-paper-award){:target="_blank"} at the *IEEE International Conference on Image Processing (ICIP) 2019*.
-    - **Apr. 30, 2019**: Our paper is accepted for publication at *ICIP 2019*.
-    - **May 4, 2018**: Our paper is accepted for publication at *ICIP 2018*.
-    - **Nov. 14, 2017**: Our paper is accepted for publication at the *31st Conference on Neural Information Processing Systems (NIPS), Machine Learning for Intelligent Transportation Systems Workshop, 2017*.
-    - **Mar. 29, 2017**:  Our paper is selected as a [**Finalist of the World’s FIRST 10K Best Paper Award (top 3%)**](https://www.ece.gatech.edu/news/594459/multimedia-and-sensors-lab-team-named-best-paper-award-finalist){:target="_blank"} in the *IEEE International Conference on Multimedia and Expo (ICME) 2017*.
+    - **May 10, 2025**: Recognized as a [**CVPR 2025 Outstanding Reviewer**](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer).
+    - **Dec. 3, 2024**: [**Amazon Nova Multimodal Foundation model**](https://www.aboutamazon.com/news/aws/amazon-nova-artificial-intelligence-bedrock-aws) is launched.
+    - **Nov. 29, 2023**: [**Amazon Titan Multimodal Embeddings model**](https://www.amazon.science/blog/amazon-web-services-releases-two-new-titan-vision-language-models) is launched.
+    - **May 16, 2023**: Recognized as a [**CVPR 2023 Outstanding Reviewer**](https://cvpr.thecvf.com/Conferences/2023/OutstandingReviewers).
+    - **Jan. 20, 2023**: [**MaskVLM**](https://arxiv.org/abs/2208.02131) is accepted for publication at *ICLR 2023*.
+    - **Jul. 3, 2020**: [**GradCon**](https://arxiv.org/abs/2007.09507) is accepted for publication at *ECCV 2020*.
+    - **Sept. 24, 2019**: Won the [**Best Paper Award (top 0.1%)**](images/icip2019_gukyeong_award.jpg){:target="_blank"} at *IEEE ICIP 2019*.
+
+# - **Nov. 29, 2023**: [**Amazon Titan Multimodal Embeddings model**](https://www.amazon.science/blog/amazon-web-services-releases-two-new-titan-vision-language-models) is launched.  
+# - **Oct. 9, 2023**: I am promoted to Senior Applied Scientist at Amazon.
+
+# - **May 30, 2022**: I receive a [**CSIP Outstanding Research Award**](images/csip_award.jpeg) in recognition of my Ph.D. research at Georgia Tech.
+# - **Jan. 30, 2022**: One paper is accepted for publication at *IEEE Transactions on Image Processing*.
+# - **Jan. 11, 2021**: I am joining Amazon Web Services (AWS) AI Labs as a full-time Applied Scientist.
+# - **Oct. 28, 2020**: Our paper received the [**Top Viewed Special Session Paper Award**](images/icip2020_mohit_award.pdf) at *ICIP 2020*.
+# - **Jul. 3, 2020**: Our papers is accepted for publication at *ECCV 2020*.
+# - **May 15, 2020**: Two papers are accepted for publication at *ICIP 2020*.
+# - **Apr. 30, 2019**: Our paper is accepted for publication at *ICIP 2019*.
+# - **May 4, 2018**: Our paper is accepted for publication at *ICIP 2018*.
+# - **Nov. 14, 2017**: Our paper is accepted for publication at the *31st Conference on Neural Information Processing Systems (NIPS), Machine Learning for Intelligent Transportation Systems Workshop, 2017*.
+# - **Mar. 29, 2017**:  Our paper is selected as a [**Finalist of the World’s FIRST 10K Best Paper Award (top 3%)**](https://www.ece.gatech.edu/news/594459/multimedia-and-sensors-lab-team-named-best-paper-award-finalist){:target="_blank"} in the *IEEE International Conference on Multimedia and Expo (ICME) 2017*.
 
 #- **July 14, 2021**: I successfully finished my Ph.D. dissertation defense.
 #- **January 2, 2020**: I am joining Amazon Web Services (AWS) AI Labs as an Applied Scientist Intern in Summer 2020.
@@ -78,7 +84,7 @@ more_content: | # this will include new lines to allow paragraphs
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

@@ -27,6 +27,13 @@
             </a>
           </li>
         {%- endif -%}
+        {%- if site.google_scholar_url -%}
+          <li>
+            <a target="_blank" href="{{ site.google_scholar_url }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-graduation-cap" title="Google Scholar link"></i>
+            </a>
+          </li>
+        {%- endif -%}
         {%- if site.github_username -%}
           <li>
             <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
