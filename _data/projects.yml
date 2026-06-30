@@ -1,13 +1,17 @@
 # Project template
 - layout: left-proj
+  pub-img: images/eccv2026.png
+  citation: 'J. Byun, **G. Kwon**, H. Hsu, M. Karumuri, Z. Zhang, H. Yang, and D. Modolo, “Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility,” *European Conference on Computer Vision (ECCV)*, 2026.'
+  links: |
+- layout: left-proj
   pub-img: images/nova_mme_2025.png
-  citation: '**Amazon Artificial General Intelligence**, "Amazon Nova Multimodal Embeddings: Technical Report and Model Card," Tech report, 2025.'
+  citation: '**Amazon Artificial General Intelligence**, "Amazon Nova Multimodal Embeddings: Technical Report and Model Card," *Tech report*, 2025.'
   links: |
     [[Amazon Science]](https://www.amazon.science/publications/amazon-nova-multimodal-embeddings-technical-report-and-model-card)
 
 - layout: left-proj
   pub-img: images/nova2024.png
-  citation: '**Amazon Artificial General Intelligence**, "The Amazon Nova Family of Models: Technical Report and Model Card," Tech report, 2024.'
+  citation: '**Amazon Artificial General Intelligence**, "The Amazon Nova Family of Models: Technical Report and Model Card," *Tech report*, 2024.'
   links: |
     [[Amazon Science]](https://www.amazon.science/publications/the-amazon-nova-family-of-models-technical-report-and-model-card)
 
